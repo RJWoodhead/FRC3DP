@@ -12,6 +12,8 @@ like CF-reinforced nylon (but honestly, this is probably overkill).
 
 ![](CheapTurret/Images/IMG_2400.jpg)
 
+Your comments, suggestions, and typo-reports are much appreciated.
+
 # Currently Available Designs
 
 * [Compendium of Useful Parts](Useful/Useful.md) - a variety of miscellaneous parts that you may find useful.

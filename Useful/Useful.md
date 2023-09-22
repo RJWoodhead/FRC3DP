@@ -28,5 +28,5 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 # Jigs and Guides
 
-* [Belt Welding Jig](Guides). A small jig that can hold some round tubing in place. Print two of them, slide onto a length of T-slot, and you'll be able to heat the ends of the tubing and then push them together reasonably precisely.
+* [Belt Welding Jig](Misc). A small jig that can hold some round tubing in place. Print two of them, slide onto a length of T-slot, and you'll be able to heat the ends of the tubing and then push them together reasonably precisely.
 

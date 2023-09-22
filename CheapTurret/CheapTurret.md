@@ -120,4 +120,4 @@ Also available to help constrain the cable chain are the Cable Chain Guide and C
 
 # That's All Folks
 
-That's all I have so far. Of course, what you attach to the turret is entirely up to you!
+That's all I have so far. Of course, what you attach to the turret is entirely up to you... but please only use your newfound aiming powers for good!

@@ -1,6 +1,8 @@
 The CheapArm is a tube-in-tube device that can be both extended and retracted by a motor with the arm in any desired orientation (although you should, if possible, orient it so that the belt runs along the top when mounted). It is designed to allow you to extend and retract some sort of manipulator, but isn't designed to take high loads -- if you want to do something like lift the robot off the ground, use the [CheapLifter](/CheapLifter/CheapLifter.md) instead. I'm currently working on a heftier version using 4" tubing, stay tuned for that.
 
-PHOTO HERE.
+![](Images/IMG_2345.jpg)
+
+(better photo coming soon!)
 
 # Getting Started / General Notes
 
