@@ -1,6 +1,6 @@
 # FRC3DP - Common First Robotics Mechanisms implemented using extensive 3D Printing
 
-This is part of an ongoing project I am undertaking to reimplement many of the most common FIRST Robotics mechanisms
+This is an ongoing project I am undertaking to reimplement many of the most common FIRST Robotics mechanisms
 with an emphasis on using basic 3D-printed parts wherever possible. The goal is to provide the community with a set
 of customizable designs that are inexpensive and easy to assemble, using parts that can be printed in PLA on an
 inexpensive 3D printer and combined with aluminum tubing and commonly-available parts such as brackets and bearings using hand tools.
@@ -12,7 +12,7 @@ like CF-reinforced nylon (but honestly, this is probably overkill).
 
 ![](CheapTurret/Images/IMG_2400.jpg)
 
-Your comments, suggestions, and typo-reports are much appreciated.
+Your comments, suggestions (both for improvements and for new mechanisms to develop), and typo-reports are much appreciated.
 
 # Currently Available Designs
 
@@ -21,6 +21,10 @@ Your comments, suggestions, and typo-reports are much appreciated.
 * [CheapArm](CheapArm/CheapArm.md) - a 2-part tube-in-tube arm that actively extends and retracts using a 9mm timing belt driven by a MaxPlanetary gearbox.
 * [CheapElevator](CheapElevator/CheapElevator.md) - the classic multistage elevator mechanism. 
 * [CheapTurret](CheapTurret/CheapTurret.md) - a ridiculously cheap turret that has over 300 degrees of rotary motion and a simple cable chain that routes power, canbus, and ethernet to whatever is mounted on it.
+
+# Works in Progress
+
+* CheapThigh - a beefier CheapArm with a different drive mechanism.
 
 # File Notes
 
@@ -43,7 +47,7 @@ The included Fusion 360 files are parametric (overly so, perhaps) and include pa
 
 # Caveat Constructor
 
-These designs have not yet been tested in the crucible of competition. Your mileage may vary. Void where prohibited by law. You get what you pay for.
+These designs have not yet been tested in the crucible of competition. Your mileage may vary. Batteries not included. Terms and conditions may apply. Void where prohibited by law. You get what you pay for. And, of course, "some assembly required."
 
 # License
 
