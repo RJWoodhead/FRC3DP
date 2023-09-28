@@ -26,6 +26,16 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 * [Radio Mount](Misc). Yet another mount for the FRC radio, this one lets the radio drop into the mount. Lots of ways to secure it once it's in, but a zip-tie at the top is the easiest. Releases in seconds when you need to get the radio flashed at a competition. All the cables come out the bottom.
 
+# Building Blocks
+
+* The [HTD Flanged Pulley Half](Misc) is a Fusion 360 project that helps design and build HTD belt pulleys. It is fully parametric and lets you specify things like belt type, number of teeth, flange size, bolt circle, and whether or not the hex shaft has a raised hub. Due to limitations in Fusion, depending on what features you want you will have to do some timeline editing, mostly feature suppression toggling. Stepping through the timeline should make things fairly obvious.
+
+  Some notes:
+
+  * All the parameters have comments that are hopefully helpful.
+  * If you have a raised hub, the slope of the flange is limited to about 60 degrees if you want to print without support; otherwise it should be set to 80 degrees.
+  * You will have to change the hole feature to alter your bolt holes. Usually you will be printing two half pulleys that differ in their bolt holes (for example, countersunk bolts on one half, threaded holes in the other). There is also a feature to expand a countersink so flathead bolts nest flush with the pulley surface (printing limitations often cause them to be a little proud if you don't add some tolerance).
+
 # Jigs and Guides
 
 * [Belt Welding Jig](Misc). A small jig that can hold some round tubing in place. Print two of them, slide onto a length of T-slot, and you'll be able to heat the ends of the tubing and then push them together reasonably precisely.
