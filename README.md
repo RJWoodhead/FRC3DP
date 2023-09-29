@@ -12,7 +12,7 @@ like CF-reinforced nylon (but honestly, this is probably overkill).
 
 ![](CheapTurret/Images/IMG_2400.jpg)
 
-Your comments, suggestions (both for improvements and for new mechanisms to develop), and typo-reports are much appreciated.
+Your comments, suggestions (both for improvements and for new mechanisms to develop), and typo-reports are much appreciated. I can be emailed directly at trebor@animeigo.com.
 
 # Currently Available Designs
 
