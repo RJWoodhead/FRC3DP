@@ -317,5 +317,3 @@ Your Elevator is now completely assembled. If you have used a temporary length o
 If you detect excessive friction in the mechanism, the most likely cause is a slight misajustment of the cross brace. Loosen the bolts, run the mechanism back and forth a few times, then retighten.
 
 ![](Images/IMG_2277.jpg)
-
-You can use a 1/2" socket adapter and a drill to test the mechanism. Although this has of course not happened to me, I would recommend being very careful where you place your hands when doing so, it's easy to get a nasty pinch, in particular if you use the temptingly convenient crossbar.
