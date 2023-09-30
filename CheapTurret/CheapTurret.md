@@ -28,6 +28,8 @@ Also included is a chain mount plate which is just a grid of holes that can be u
 
 Converting the Lazy-Susan to a Ring Gear is pretty straightforward. First, you drill out the holes in the Lazy-Susan so they accept 10-32 bolts (some of them come threaded, and the outer ring holes do not go all the way through the aluminum).
 
+It is a good idea to tape up the bearing joint before drilling to avoid getting chips in the bearing. TY to Weldingrod1 for reminding me to mention this!
+
 Before:
 
 ![](Images/IMG_2286.jpg)
