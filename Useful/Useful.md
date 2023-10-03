@@ -26,6 +26,8 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 * [Radio Mount](Misc). Yet another mount for the FRC radio, this one lets the radio drop into the mount. Lots of ways to secure it once it's in, but a zip-tie at the top is the easiest. Releases in seconds when you need to get the radio flashed at a competition. All the cables come out the bottom.
 
+* [Parametric Hinge](Misc). A simple parametric print-in-one-piece parametric hinge. You get to specify length, width, size and # of mounting holes and more.
+
 # Building Blocks
 
 * The [HTD Flanged Pulley Half](Misc) is a Fusion 360 project that helps design and build HTD belt pulleys. It is fully parametric and lets you specify things like belt type, number of teeth, flange size, bolt circle, and whether or not the hex shaft has a raised hub. Due to limitations in Fusion, depending on what features you want you will have to do some timeline editing, mostly feature suppression toggling. Stepping through the timeline should make things fairly obvious. This project is an extension of Robert K's [Parametric HTD Pulleys](https://grabcad.com/library/parametric-htd-pulleys-1).
