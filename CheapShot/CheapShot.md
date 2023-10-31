@@ -2,11 +2,11 @@ The CheapShot is my attempt to build a simple shooter with an adjustable hood. T
 
 Since a larger ball size can easily result in parts that are too large for typical 3D printers, the large parts of the shooter are flat-pack tab-in-slot components that can be manufactured on a basic CNC router.
 
-[CheapShot Video](Images/IMG_2474.mov)
+[![CheapShot Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FPwDe70TSEHk)](https://youtu.be/PwDe70TSEHk)
 
 Finally, one of our students was playing around floating a ball a jet of air, and that got me wondering if an air-conveyor could be used to feed balls into the shooter (as opposed to using the typical belts). And the answer is -- yes, yes it can. And it's pretty hilarious.
 
-[Blowups Happen Video](Images/IMG_2473.mov)
+[Blowups Happen Demo](https://youtube.com/shorts/p--w9OTOHpk?feature=share)
 
 # Notes
 

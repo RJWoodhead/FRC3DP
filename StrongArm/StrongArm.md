@@ -1,6 +1,6 @@
 The StrongArm is an evolution of the [CheapArm](/CheapArm/CheapArm.md) designed for heavy loads. It uses a 4" outer tube and a 3" inner tube (0.125" wall) and a rack and pinion gear system built using a length of HTD belt. It is easily capable of lifting 10kg vertically using a NEO 550 and can handle substantial bending loads.
 
-[Video](Images/IMG_2460.mov)
+[![StrongArm Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2F9Qr9w32FZpY)](https://youtu.be/9Qr9w32FZpY)
 
 # Getting Started / General Notes
 
