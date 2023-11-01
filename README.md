@@ -26,7 +26,7 @@ Your comments, suggestions (both for improvements and for new mechanisms to deve
 
 # File Notes
 
-Included with each design are:
+Included with most designs are:
 
 * The Fusion360 Project File
 * STEP files for each printable component (I find these print slightly better than 3MF assuming your slicer accepts them; I use a Bambu X1C which does, but Cura does not).
