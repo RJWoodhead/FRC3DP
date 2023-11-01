@@ -24,10 +24,6 @@ Your comments, suggestions (both for improvements and for new mechanisms to deve
 * [CheapShot](CheapShot/CheapShot.md) - a simple shooter with an adjustable hood, with bonus wiffle-ball air-conveyor feeder.
 * [StrongArm](StrongArm/StrongArm.md) - the body-building brother of the CheapArm, it's simpler to build and can easily lift 10kg straight up.
 
-# Works in Progress
-
-* CheapThigh - a beefier CheapArm with a different drive mechanism.
-
 # File Notes
 
 Included with each design are:
