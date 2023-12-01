@@ -23,6 +23,7 @@ Your comments, suggestions (both for improvements and for new mechanisms to deve
 * [CheapTurret](CheapTurret/CheapTurret.md) - a ridiculously cheap turret that has over 300 degrees of rotary motion and a simple cable chain that routes power, canbus, and ethernet to whatever is mounted on it.
 * [CheapShot](CheapShot/CheapShot.md) - a simple shooter with an adjustable hood, with bonus wiffle-ball air-conveyor feeder.
 * [StrongArm](StrongArm/StrongArm.md) - the body-building brother of the CheapArm, it's simpler to build and can easily lift 10kg straight up.
+* [CheapActuator](CheapActuator/CheapActuator.md) - a simple linear actuator powered by either a NEO500 or a 775. Can move at over 6 inches/second or geared down for more strength.
 
 # File Notes
 

@@ -8,9 +8,15 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 # Parts simple enough to (hopefully) require no explanation
 
-* [REV-21-2120 CANCoder Holder](SensorMounts). A small mount for attaching a CANCoder to a REV right-angle gearbox. Can be adapted for similar uses.
+* [REV-21-2120 CANCoder Holder](SensorMounts). A small mount for attaching a CANCoder directly to a REV right-angle gearbox. Can be adapted for similar uses.
 
-* [Sensor Mounts for 2" Tube](SensorMounts). Combine one of the specialized holders (Hall Effect or IR sensor) with a Basic Tube Mount and a couple of bolts and you can securely clamp your sensor to 2" square tube.
+* [Sensor Mounts for Square Tube](SensorMounts). Print two of the specialized holders (Hall Effect or IR sensor) and clamp them together with a couple of flathead bolts and you can securely attach your sensor to 1.5", 2" or 4" square tube. I didn't add all of the possible type/size combinations, but the Fusion file is parametric so you should be able to adapt as needed. I've also included a template mount so you can adapt it to hold other sensors.
+
+* [Shaft Sensor Offset Mount](SensorMounts). A simple mount that surrounds a shaft and can be used to offset sensor mounts so there is space underneath them to add a shaft collar. Comes in two-thread, two-hole (2T) and four-thread variants and mounts on a 2-inch #10-32 bolt circle.
+
+* [Offset CANCoder Mount](SensorMounts). A variant of the CANCoder mount for use with the Shaft Sensor Offset Mount. Includes a protective cap.
+
+* [Lerdge.com Optical Endstop Mount](SensorMounts). These are [$1 optical endstop sensors](https://shop.lerdge.com/products/lerdge-optical-endstop). Includes the mount, a snap-on cover, and an interruptor that clamps onto the shaft. Parametric so you can specify the start and end of travel. Fits on the Shaft Sensor Offset Mount. [Also available on Amazon](https://www.amazon.com/gp/product/B07MFT8NWJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) for $10 for 5. These sensors are normally-closed vs. the more typical normally-open polarity.
 
 * [Cable Chain](CableChain). Comes in two variants, a basic cable-chain link and an axis-shift variant that lets you change the plane in which the chain is bending (this latter requires support to print). You have to thread your wires through the chain links (they don't snap open) but this tradeoff means they are easier to print and assemble. I use them in the [CheapTurret](/CheapTurret/CheapTurret.md) Project.
 
@@ -22,11 +28,17 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 * [Bolt Thumbscrew Wide-Flat](Misc). Print these out, press in a 1/4-20 hex bolt, and you've got a nice thumbscrew. Has sacrificial support built in, just push the bolt through it from the "wrong" side to break it off, clean up with a deburring tool, and then insert the bolt properly.
 
-* [Hex Magnet Holder](Misc). A little hex nubbin for mounting a CANCoder magnet to hex shaft. Push the magnet in one end, and screw the other end onto the end of some threaded hex shaft with a cut-off bolt or set-screw. You can adjust the set-screw so that it touches the back of the magnet and holds it at the desired distance from the sensor. Once it's all in place, add a dot of glue to the tip of the magnet to hold it in place. It's a lot easier than mounting the magnet directly into the hex shaft.
+* [Hex Magnet Holder](Misc). A little hex nubbin for mounting a CANCoder magnet to hex shaft. Push the magnet in one end, and screw the other end onto the end of some threaded hex shaft with a cut-off bolt or set-screw. You can adjust the set-screw so that it touches the back of the magnet and holds it at the desired distance from the sensor. Once it's all in place, add a dot of glue to the tip of the magnet to hold it in place. It's sometimes easier than mounting the magnet directly into the hex shaft.
 
 * [Radio Mount](Misc). Yet another mount for the FRC radio, this one lets the radio drop into the mount. Lots of ways to secure it once it's in, but a zip-tie at the top is the easiest. Releases in seconds when you need to get the radio flashed at a competition. All the cables come out the bottom.
 
 * [Parametric Hinge](Misc). A simple parametric print-in-one-piece parametric hinge. You get to specify length, width, size and # of mounting holes and more.
+
+* [Parametric Crush Block](Misc). A simple crush block that can be used to reinforce the inside of square tubing. Modify as needed to incorporate pass-through holes, threaded mounts, etc.
+
+* [1 x 1 Cable Duct](Misc). This 2-part duct snaps together into a 1" hole (in 1x2 tubing, for example) and lets you run wires through the tubing while keeping them protected.
+
+* [Inline Bolt Sizer](Misc). A simple jig for visually measuring the length of bolts. Works on most sizes of inch-unit bolts, and has slots for both flathead and socket head cap screws. I got a little fancy with this, the 3MF file is composed of a lot of bodies; if you have a multi-color printer, set the first body (the base) to a contrasting color so the labels and lines are more easily visible.
 
 # Building Blocks
 

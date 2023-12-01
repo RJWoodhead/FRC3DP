@@ -10,6 +10,8 @@ The StrongArm is an evolution of the [CheapArm](/CheapArm/CheapArm.md) designed 
 
 * The StrongArm is designed to work with the MaxPlanetary and Rev Max 90-degree gearboxes, but there are mounting holes for other gearboxes and if they don't work, the Fusion 360 project should be relatively easy to modify.
 
+* There are wide gaps between the tracks where the bearings contact the tubes; these could be drilled or CNC'd out to reduce weight.
+
 * The Inner Tube Mount can hold magnets and you can attach [Rev Magnetic Limit Switches](https://www.revrobotics.com/rev-31-1462/) to sense them (note: not tested yet), or you can use IR beam-break sensors; Adafruit has some [very cheap ones](https://www.adafruit.com/product/2167) that work well with SparkMaxes, and printed mounts and drill guides for them are included in the project. Read the [tutorial](https://learn.adafruit.com/ir-breakbeam-sensors) to learn how to use the sensors; they can be wired to be a replacement for the Rev limit switches, but you need to include a 10k resistor in order to do so.
 
 * The Outer Tube Mount projects 2.655" above the top of the outer tube and 1.5" below it. The Inner Tube Mount projects 2" above the bottom of the inner tube and .25" below it. Thus the maximum stroke is 3.75" less than the length of the outer tube.
