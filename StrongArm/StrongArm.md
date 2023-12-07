@@ -2,6 +2,8 @@ The StrongArm is an evolution of the [CheapArm](/CheapArm/CheapArm.md) designed 
 
 [![StrongArm Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2F9Qr9w32FZpY)](https://youtu.be/9Qr9w32FZpY)
 
+I have also included a variant, StrongArm-Chain, that uses 35-series chain and an [18-tooth sprocket](https://www.andymark.com/products/35-series-symmetrical-hub-sprockets) as the rack and pinion. ***However, this is just a design variant, I have not yet built and tested it, so there may be unexpected issues with it; caveat constructor***.
+
 # Getting Started / General Notes
 
 * Fusion 360 Project is [here](Files/). Sorry, too lazy to export part files this time. The project is fully parametric so it's easy to tweak to your requirements.
@@ -54,7 +56,7 @@ If you want to use beam-brake sensors, use the IR Sensor drill guide to make mat
 
 Place the Inner Tube Mount onto the Inner Tube and firmly seat it. 3 of the 4 sides of the mount have 1/4" counterbored holes; the one that doesn't marks the Front side of the tube. Use a 1/4" drill bit to make divots, then remove the Inner Tube mount and drill out these holes to 1/4-20 free fit.
 
-# 3: Inner Tube Assembly
+# 3A: Inner Tube Assembly (Belt)
 
 Cut a length of 15mm HTD timing belt approximately the length of your Inner Tube. Insert one end of the belt into the Inner Bearing Mount and wiggle it so it slips into the locking ridges inside the mount. Insert the Inner Tube into the Inner Bearing Mount so the front of the tube locks the belt firmly in place. Secure the Inner Bearing Mount to the Inner Tube using 3 1/4-20 x 1.125" bolts.
 
@@ -64,7 +66,7 @@ Cut a length of 15mm HTD timing belt approximately the length of your Inner Tube
 
 Smooth the belt down against the Inner Tube. Place the Inner Tube Belt Clamp on the belt just below where you're going to attach your end-effector to the arm so that it clicks into the teeth of the belt. Put a little tension on the belt with the clamp, then use a small drill bit to make divots in the Inner Tube.
 
-Drill and tap the two divots for 10-32 x 0.375" bolts.
+Drill and tap the two divots for 10-32 x 0.375" bolts. You could also drill these holes for #10-32 loose fit and use locknuts on the inside of the tube.
 
 Apply flexible adhesive (Sho-Goo or E6000 for example) to the back of the belt, then reinstall the Inner Tube Belt Clamp and use it to tension the belt. Check that the belt is correctly centered on the tube along its complete length. You may want to clamp the belt softly at various places, or wrap it in twine.
 
@@ -80,6 +82,14 @@ Mount 8 pairs (16 total) of R4-2RS bearings into the Inner Bearing Mount, 2 pair
 
 Two of the sides of the mount have large recesses that will accept stacks of 18mm disc magnets. If you are using magnetic limit switches, glue in a single magnet on the side(s) you will be mounting the sensors on, then fill up the stack with more magnets.
 
+# 3B: Inner Tube Assembly (Chain)
+
+There are 4 vertically-oriented holes in the Inner Bearing Mount for bolts that will hold the lower section of chain in place; use the Inner Bearing Mount as a drill guide to drill these to accept #8 bolts (#16 drill bit) -- you probably only need 2 bolts but there's room for 4. Insert the chain into the slot (the end of the chain should be a large link; the slot has curves that help position the chain) and insert the Inner Tube into the Inner Bearing Mount. Secure the chain to the Inner Tube using #8 bolts and then secure the Inner Bearing Mount to the Inner Tube using 3 1/4-20 x 1.125" bolts.
+
+Smooth the chain down against the Inner Tube. Place the Inner Tube Chain Clamp on the chain just below where you're going to attach your end-effector to the arm so that it clicks into the links of the chain (like the slot, it's keyed for the large and small links). Put a little tension on the chain with the clamp, then use a small drill bit to make divots in the Inner Tube.
+
+Drill and tap the two divots for 10-32 x 0.375" bolts. You could also drill these holes for #10-32 loose fit and use locknuts on the inside of the tube.
+
 # 4: Outer Tube Assembly
 
 Insert the Outer Tube into the Outer Tube Mount. Install 8 pairs of 2 R4-2RS bearings into the Outer Bearing Mount (you'll insert them from the top into the little alcoves they fit into) and secure with 1/4-20 bolts. The 2 pairs that fit into alcoves on the front face of the mount (and thus, the bolts are inserted from the left and right; one of them goes deep inside the gearbox mount) require 2.25" bolts; the others will accept 2" bolts.
@@ -88,7 +98,7 @@ Insert the Outer Tube into the Outer Tube Mount. Install 8 pairs of 2 R4-2RS bea
 
 These bolts also secure the Outer Tube Mount to the Outer Tube.
 
-# 5: Tube Integration
+# 5A: Tube Integration (Belt)
 
 Remove the Inner Tube Belt Clamp from the Inner Tube, then insert the Inner Tube into the Outer Tube from the bottom, up through the Outer Tube Mount. Reinstall the Inner Tube Belt Clamp; it now forms a hard-stop that prevents the Inner Tube from falling out of the Outer Tube. You may want to reposition it to adjust this hard stop, you'll just have to drill some more 10-32 tapped holes.
 
@@ -96,10 +106,14 @@ Remove the Inner Tube Belt Clamp from the Inner Tube, then insert the Inner Tube
 
 Trim the excess belt if it is getting in the way of anything.
 
+# 5B: Tube Integration (Chain)
+
+Remove the Inner Tube Chain Clamp from the Inner Tube, then insert the Inner Tube into the Outer Tube from the bottom, up through the Outer Tube Mount. Reinstall the Inner Tube Chain Clamp; it now forms a hard-stop that prevents the Inner Tube from falling out of the Outer Tube. Use the clamp to retension the chain, then drill 2 or 3 #8 holes using the Chain Clamp as a drill guide and install #8 bolts with locknuts on the inside of the tube to secure the chain in place.
+
 # 6: Motor and Gearbox
 
 The Outer Tube Mount uses a Rev Right Angle Gearbox to make the packaging much less prone to getting hit and damaged. If you look in the slot where the drive pulley will be installed you'll see there are countersinks which will hold mounting bolts and access holes for a long T-handle opposite them. Just insert 10-32 bolts (1" or 1.125" should work depending on your precise configuration) as needed. A Right-Angle Gearbox + MaxPlanetary setup will drop right into the mount, and you can additionally secure the MaxPlanetary to the Mount with some additional 10-32 bolts using the provided holes.
 
-Thread a length of 1/2" Hex Shaft through the opposite side of the mount, capture a WCP-0611 Pulley in the central slot, and insert the end of the shaft into and through the gearbox. Add a Thunderhex bearing to the loose end of the shaft, then secure with two shaft collars.
+Thread a length of 1/2" Hex Shaft through the opposite side of the mount, capture a WCP-0611 Pulley (or 18-tooth 35-series hub) in the central slot, and insert the end of the shaft into and through the gearbox. Add a Thunderhex bearing to the loose end of the shaft, then secure with two shaft collars.
 
 Done!
