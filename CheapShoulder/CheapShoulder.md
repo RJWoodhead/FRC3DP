@@ -14,6 +14,8 @@ The related [CheapWrist](/CheapWrist/CheapWrist.md) is a lighter-duty rotating a
 
 * I lost my notes about how long various bolts are, but it should be fairly obvious -- sorry!
 
+* Please note that while I have built a prototype it hasn't been extensively tested.
+
 # 1: Tube Cutting
 
 Cut some 2x1 tubing for the support arms and the rotating arm. The project assumes .0625-wall tubing, you will need change the parametric settings for other sizes as this is used to size the crush blocks.

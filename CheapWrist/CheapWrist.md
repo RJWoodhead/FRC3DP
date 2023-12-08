@@ -14,6 +14,8 @@ The related [CheapShoulder](/CheapShoulder/CheapShoulder.md) is a heavier-duty a
 
 * I lost my notes about how long various bolts are, but it should be fairly obvious -- sorry!
 
+* Please note that while I have built a prototype it hasn't been extensively tested.
+
 # 1: Tube Cutting and Drilling
 
 Cut some 2x2 tubing for the Upper (fixed) and Lower (pivoting) arms. The project assumes .0625-wall tubing, you will need change the parametric settings for other sizes as this is used to size the crush blocks. It'll probably work for tube sizes down to about 1", but I haven't tested this.

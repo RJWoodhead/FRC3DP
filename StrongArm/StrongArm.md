@@ -112,7 +112,7 @@ Remove the Inner Tube Chain Clamp from the Inner Tube, then insert the Inner Tub
 
 # 6: Motor and Gearbox
 
-The Outer Tube Mount uses a Rev Right Angle Gearbox to make the packaging much less prone to getting hit and damaged. If you look in the slot where the drive pulley will be installed you'll see there are countersinks which will hold mounting bolts and access holes for a long T-handle opposite them. Just insert 10-32 bolts (1" or 1.125" should work depending on your precise configuration) as needed. A Right-Angle Gearbox + MaxPlanetary setup will drop right into the mount, and you can additionally secure the MaxPlanetary to the Mount with some additional 10-32 bolts using the provided holes.
+The Outer Tube Mount uses a Rev Right Angle Gearbox to make the packaging much less prone to getting hit and damaged. If you look in the slot where the drive pulley will be installed you'll see there are 3 countersinks which will hold mounting bolts and access holes for a long T-handle opposite them; they are sized to accept 0.625" #10-32 bolts. A Right-Angle Gearbox + MaxPlanetary setup will drop right into the mount, the Gearbox can be secured with the 3 bolts, and you can additionally secure the MaxPlanetary to the Mount with some additional 10-32 bolts using the provided holes.
 
 Thread a length of 1/2" Hex Shaft through the opposite side of the mount, capture a WCP-0611 Pulley (or 18-tooth 35-series hub) in the central slot, and insert the end of the shaft into and through the gearbox. Add a Thunderhex bearing to the loose end of the shaft, then secure with two shaft collars.
 
