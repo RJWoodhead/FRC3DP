@@ -7,4 +7,3 @@ One minor concern I have with this design is that because of the reduced separat
 [Fusion Project](Files/MultiArm-Chain.f3z)
 
 ![](Images/MultiArm-Chain.jpg)
-
