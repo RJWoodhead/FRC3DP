@@ -57,3 +57,7 @@ These are some minor parts that you may find useful in your projects. The Fusion
 # Brackets (aka Gussets)
 
 * [Some simple brackets](Brackets) that fill in the gaps of the standard brackets you can get from AndyMark and Rev, with DXF files suitable for use with a CNC router. You will probably need to scale the DXFs by 25.4 after importing them because last time I checked, Fusion doesn't include the scale information in the DXF, despite that being possible. The Custom Short L-Bracket is particularly handy because you can use 4 of them to wrap around a 4-way intersection in your frame and attach a vertical strut.
+
+# T-Slot Goodies
+
+* [Some handy printable items that attach to T-Slot tubing](TSlot). Included are a bumper mount and a leg. I made these for the IntakePrototype project.

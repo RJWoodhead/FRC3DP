@@ -27,6 +27,7 @@ Your comments, suggestions (both for improvements and for new mechanisms to deve
 * [CheapActuator](CheapActuator/CheapActuator.md) - a simple linear actuator powered by either a NEO500 or a 775. Can move at over 6 inches/second or geared down for more strength.
 * [CheapShoulder](CheapShoulder/CheapShoulder.md) - a pivoting arm supported by two tubes on either side, powered by a NEO + MaxPlanetary + Right-Angle Gearbox. Can easily mount various sensors.
 * [CheapWrist](CheapWrist/CheapWrist.md) - a lighter-weight inline pivoting arm, perhaps suitable for mounting an end-effector.
+* [IntakePrototype](IntakePrototype/IntakePrototype.md) - a simple 3D-printable prototyping system for testing intake geometries.
 
 # File Notes
 
