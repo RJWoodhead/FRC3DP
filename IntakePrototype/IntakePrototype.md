@@ -1,4 +1,4 @@
-The IntakePrototype is a quick-and-dirty 3D-printed prototyping system for intakes. It consists of some T-slot mounting posts and adjustable arms that can quickly be repositioned to test intake geometries. It is a remix of @AndrewCards [OTB Intake Prototyping System](https://www.chiefdelphi.com/t/otb-intake-prototyping-system/445544) and I am indebted to him for the excellent design upon which it is based.
+The IntakePrototype is a quick-and-dirty 3D-printed prototyping system for intakes. It consists of some T-slot mounting posts and adjustable arms that can quickly be repositioned to test intake geometries. It is a remix of @AndrewCard's [OTB Intake Prototyping System](https://www.chiefdelphi.com/t/otb-intake-prototyping-system/445544) and I am indebted to him for the excellent design upon which it is based.
 
 ![](Images/IMG_2655.jpg)
 
