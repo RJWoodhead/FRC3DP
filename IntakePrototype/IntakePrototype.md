@@ -20,3 +20,5 @@ Notes:
 
 * You may find some of the [TSlot objects](/Useful/TSlot/) handy -- there are legs to raise up the T-slot and mounting brackets for bumpers.
 
+* These are big parts and take a while to print even on a fast printer like the Bambu.
+
