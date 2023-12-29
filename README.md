@@ -10,24 +10,55 @@ this is unavoidable, a flat plate of polycarbonate or aluminum can be used to re
 as a template to cut out the plate), or if a higher-end printer is available, the part can be printed out of more resilient materials
 like CF-reinforced nylon (but honestly, this is probably overkill).
 
-![](CheapTurret/Images/IMG_2400.jpg)
-
 Your comments, suggestions (both for improvements and for new mechanisms to develop), and typo-reports are much appreciated. I can be emailed directly at trebor@animeigo.com.
 
 # Currently Available Designs
 
-* [Compendium of Useful Parts](Useful/Useful.md) - a variety of miscellaneous parts that you may find useful.
-* [CheapLifter](CheapLifter/CheapLifter.md) - a 2-part tube-in-tube arm that passively extends using constant-force springs and retracts using a spool driven by a MaxPlanetary gearbox. Useful when you want to lift your entire robot off the ground (as in the 2022 game).
-* [CheapArm](CheapArm/CheapArm.md) - a 2-part tube-in-tube arm that actively extends and retracts using a 9mm timing belt driven by a MaxPlanetary gearbox.
-* [CheapElevator](CheapElevator/CheapElevator.md) - the classic multistage elevator mechanism. 
-* [CheapTurret](CheapTurret/CheapTurret.md) - a ridiculously cheap turret that has over 300 degrees of rotary motion and a simple cable chain that routes power, canbus, and ethernet to whatever is mounted on it.
-* [CheapShot](CheapShot/CheapShot.md) - a simple shooter with an adjustable hood, with bonus wiffle-ball air-conveyor feeder.
-* [StrongArm](StrongArm/StrongArm.md) - the body-building brother of the CheapArm, it's simpler to build and can easily lift 10kg straight up. Now has two versions, one using a HTD belt as the rack gear, the other 35-series chain.
-* [MultiArm](MultiArm/MultiArm.md) - a work-in-progress conceptual design of a multistage (4/3/2" tube) arm with integrated cascade.
-* [CheapActuator](CheapActuator/CheapActuator.md) - a simple linear actuator powered by either a NEO500 or a 775. Can move at over 6 inches/second or geared down for more strength.
-* [CheapShoulder](CheapShoulder/CheapShoulder.md) - a pivoting arm supported by two tubes on either side, powered by a NEO + MaxPlanetary + Right-Angle Gearbox. Can easily mount various sensors.
-* [CheapWrist](CheapWrist/CheapWrist.md) - a lighter-weight inline pivoting arm, perhaps suitable for mounting an end-effector.
-* [IntakePrototype](IntakePrototype/IntakePrototype.md) - a simple 3D-printable prototyping system for testing intake geometries.
+[![](CheapLifter/Images/IMG_2175-rotated.jpg)](CheapLifter/CheapLifter.md)
+
+[CheapLifter](CheapLifter/CheapLifter.md) - a 2-part tube-in-tube arm that passively extends using constant-force springs and retracts using a spool driven by a MaxPlanetary gearbox. Useful when you want to lift your entire robot off the ground (as in the 2022 game).
+
+[![](CheapArm/Images/IMG_2657.jpg)](CheapArm/CheapArm.md)
+
+[CheapArm](CheapArm/CheapArm.md) - a 2-part tube-in-tube arm that actively extends and retracts using a 9mm timing belt driven by a MaxPlanetary gearbox.
+
+[![](StrongArm/Images/IMG_2658.jpg)](StrongArm/StrongArm.md)
+
+[StrongArm](StrongArm/StrongArm.md) - the body-building brother of the CheapArm, it's simpler to build and can easily lift 10kg straight up. Now has two versions, one using a HTD belt as the rack gear, the other 35-series chain.
+
+[![](MultiArm/Images/MultiArm-Chain.jpg)](MultiArm/MultiArm.md)
+
+[MultiArm](MultiArm/MultiArm.md) - a work-in-progress conceptual design of a multistage (4/3/2" tube) arm with integrated cascade.
+
+[![](CheapElevator/Images/IMG_2304.jpg)](CheapElevator/CheapElevator.md)
+
+[CheapElevator](CheapElevator/CheapElevator.md) - the classic multistage elevator mechanism. 
+
+[![](CheapTurret/Images/IMG_2400.jpg)](CheapTurret/CheapTurret.md)
+
+[CheapTurret](CheapTurret/CheapTurret.md) - a ridiculously cheap turret that has over 300 degrees of rotary motion and a simple cable chain that routes power, canbus, and ethernet to whatever is mounted on it.
+
+[![](CheapShot/Images/CheapShotCAD.jpg)](CheapShot/CheapShot.md)
+
+[CheapShot](CheapShot/CheapShot.md) - a simple shooter with an adjustable hood, with bonus wiffle-ball air-conveyor feeder.
+
+[![](CheapActuator/Images/IMG_2556.jpg)](CheapActuator/CheapActuator.md)
+
+[CheapActuator](CheapActuator/CheapActuator.md) - a simple linear actuator powered by either a NEO500 or a 775. Can move at over 6 inches/second or geared down for more strength.
+
+[![](CheapShoulder/Images/IMG_2640.jpg)](CheapShoulder/CheapShoulder.md)
+
+[CheapShoulder](CheapShoulder/CheapShoulder.md) - a pivoting arm supported by two tubes on either side, powered by a NEO + MaxPlanetary + Right-Angle Gearbox. Can easily mount various sensors.
+
+[![](CheapWrist/Images/IMG_2608.jpg)](CheapWrist/CheapWrist.md)
+
+[CheapWrist](CheapWrist/CheapWrist.md) - a lighter-weight inline pivoting arm, perhaps suitable for mounting an end-effector.
+
+[![](IntakePrototype/Images/IMG_2655.jpg)](IntakePrototype/IntakePrototype.md)
+
+[IntakePrototype](IntakePrototype/IntakePrototype.md) - a simple 3D-printable prototyping system for testing intake geometries.
+
+[Compendium of Useful Parts](Useful/Useful.md) - a variety of miscellaneous small parts that you may find useful.
 
 # File Notes
 
