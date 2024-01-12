@@ -54,6 +54,8 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 * [Belt Welding Jig](Misc). A small jig that can hold some round tubing in place. Print two of them, slide onto a length of T-slot, and you'll be able to heat the ends of the tubing and then push them together reasonably precisely.
 
+* [Chop Saw Guides](Misc). Handy guides for precisely cutting perforated aluminum tubing in a chop saw. Pop the guide into the holes, touch the saw guide to the end of the blade, clamp, remove guide, cut. Several lengths, and the project is parametric if you need something else.
+
 # Brackets (aka Gussets)
 
 * [Some simple brackets](Brackets) that fill in the gaps of the standard brackets you can get from AndyMark and Rev, with DXF files suitable for use with a CNC router. You will probably need to scale the DXFs by 25.4 after importing them because last time I checked, Fusion doesn't include the scale information in the DXF, despite that being possible. The Custom Short L-Bracket is particularly handy because you can use 4 of them to wrap around a 4-way intersection in your frame and attach a vertical strut.
