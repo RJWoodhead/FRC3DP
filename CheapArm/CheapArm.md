@@ -28,7 +28,6 @@ The CheapArm is a tube-in-tube device that can be both extended and retracted by
 
 * Everything can be printed without support; see the Calculator Parts List tab for special instructions on particular parts. Printing with your regular wall and infill settings should be fine for everything but the MAXPlanetary Motor Mount part; that you might want to print with stronger settings. It's the only part that might conceivably get significantly stressed; if you are paranoid, use it as a template to make a replacement out of polycarbonate or aluminum (the raised ridge is to help position the part when you are using it as a drill template and is not needed otherwise, so you can replace it with a flat plate).
 
-
 * The Fusion 360 project is ridiculously parametric, should you want to make changes, but keep in mind that I've been iterating it for quite some time so there is a bit of cruft in it. My apologies. Also, it just contains a skeleton for designing the parts, and is not a full model of the final assembled device.
 
 * Tools required: Some sort of saw for cutting tubes, Hand electric drill, 13/64" drill bit, 5/32" drill bit, 1/4" (or "D") drill bit, Dremel with cutoff wheel (heavy-duty is best), assorted T-handles and wrenches, tweezers or small forceps, hand file, deburring tool, wire cutters or box cutter, small clamp, leather punch ([example](https://www.acehardware.com/departments/tools/hand-tools/punches/20416)).

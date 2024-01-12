@@ -185,7 +185,6 @@ Insert everything into the outer tube (making sure to rotate the Inner tube so t
 
 ![](Images/IMG_2557.jpg)
 
-
 Slide the Outer Bearing onto the end of the Outer Tube and lock in place with 4 #10-32 x 38" bolts.
 
 ![](Images/IMG_2517.jpg)
