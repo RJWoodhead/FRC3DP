@@ -60,6 +60,8 @@ Your comments, suggestions (both for improvements and for new mechanisms to deve
 
 [Compendium of Useful Parts](Useful/Useful.md) - a variety of miscellaneous small parts that you may find useful.
 
+[Miscellaneous Stuff](Misc/Misc.md) - Anything else FRC-related that might be useful. Currently just a SparkMax Breakout Board.
+
 # File Notes
 
 Included with most designs are:
