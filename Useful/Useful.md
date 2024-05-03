@@ -18,7 +18,9 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 * [Lerdge.com Optical Endstop Mount](SensorMounts). These are [$1 optical endstop sensors](https://shop.lerdge.com/products/lerdge-optical-endstop). Includes the mount, a snap-on cover, and an interruptor that clamps onto the shaft. Parametric so you can specify the start and end of travel. Fits on the Shaft Sensor Offset Mount. [Also available on Amazon](https://www.amazon.com/gp/product/B07MFT8NWJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) for $10 for 5. These sensors are normally-closed vs. the more typical normally-open polarity. The Fusion Project is set to produce endstop interruptors that provide 180-degree travel from straight down to straight up, but you can parametrically change this as needed. Typically you're going to want to use these endstops as direct inputs to the SparkMax and use a CANCoder to get a direct reading on the current rotation.
 
-* [Cable Chain](CableChain). Comes in two variants, a basic cable-chain link and an axis-shift variant that lets you change the plane in which the chain is bending (this latter requires support to print). You have to thread your wires through the chain links (they don't snap open) but this tradeoff means they are easier to print and assemble. I use them in the [CheapTurret](/CheapTurret/CheapTurret.md) Project.
+* [E18-D80NK Proximity Sensor Mounts](SensorMount). Handy mounts for attaching the ubiquitous E18-D80NK proximity sensor.
+
+* [Cable Chain](CableChain). Comes in two variants, a basic cable-chain link and an axis-shift variant that lets you change the plane in which the chain is bending (this latter requires support to print). You have to thread your wires through the chain links (they don't snap open) but this tradeoff means they are easier to print and assemble. I use them in the [CheapTurret](/CheapTurret/CheapTurret.md) Project. Also includes some variants with integrated mounting tabs.
 
 * [2-inch Square Bolt Spacer](Misc). A little part that slides onto a 2-inch square u-bolt and lets it clamp flatly on 2-inch square tubing.
 
@@ -40,6 +42,8 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 * [Inline Bolt Sizer](Misc). A simple jig for visually measuring the length of bolts. Works on most sizes of inch-unit bolts, and has slots for both flathead and socket head cap screws. I got a little fancy with this, the 3MF file is composed of a lot of bodies; if you have a multi-color printer, set the first body (the base) to a contrasting color so the labels and lines are more easily visible.
 
+* [Fisheye Mount](Misc). An integrated mount for a common fisheye USB camera (Printed-circuit-card-based) that clamps onto 1/2" hex shaft.
+
 # Building Blocks
 
 * The [HTD Flanged Pulley](Misc) is a Fusion 360 project that helps design and build HTD belt pulleys. It is fully parametric and lets you specify things like belt type, number of teeth, flange size, bolt circle, and whether or not the hex shaft has a raised hub. Due to limitations in Fusion, depending on what features you want you will have to do some timeline editing, mostly feature suppression toggling. Stepping through the timeline should make things fairly obvious. This project is an extension of Robert K's [Parametric HTD Pulleys](https://grabcad.com/library/parametric-htd-pulleys-1).
@@ -49,6 +53,10 @@ These are some minor parts that you may find useful in your projects. The Fusion
   * All the parameters have comments that are hopefully helpful.
   * If you have a raised hub, the slope of the flange is limited to about 60 degrees if you want to print without support; otherwise it should be set to 80 degrees.
   * You will have to change the hole feature to alter your bolt holes. Usually you will be printing two half pulleys that differ in their bolt holes (for example, countersunk bolts on one half, threaded holes in the other). There is also a feature to expand a countersink so flathead bolts nest flush with the pulley surface (printing limitations often cause them to be a little proud if you don't add some tolerance).
+
+* A [Corkscrew Roller](Misc) useful for making intake rollers that slide whatever they grab one way or the other. Completely parametric, slides on hex shafting.
+
+* A Parametric [Omniwheel Pulley](Misc) that combines printed parts with R4-2RS bearings; the end result is a tough wheel you can put on an intake to position the intake at the exact height you want while still being able to slide left and right without binding. It worked like a charm on our Crescendo Quokkabot intake. Could easily be modified to be a driven wheel instead of a pulley.
 
 # Jigs and Guides
 
