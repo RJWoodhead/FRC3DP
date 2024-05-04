@@ -42,7 +42,7 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 * [Inline Bolt Sizer](Misc). A simple jig for visually measuring the length of bolts. Works on most sizes of inch-unit bolts, and has slots for both flathead and socket head cap screws. I got a little fancy with this, the 3MF file is composed of a lot of bodies; if you have a multi-color printer, set the first body (the base) to a contrasting color so the labels and lines are more easily visible.
 
-* [Fisheye Mount](Misc). An integrated mount for a common fisheye USB camera (Printed-circuit-card-based) that clamps onto 1/2" hex shaft.
+* [Fisheye Mount](Misc). An integrated mount for a common fisheye USB camera (Printed-circuit-card-based) that clamps onto 1/2" hex shaft. Also fits the Arducam.
 
 # Building Blocks
 
