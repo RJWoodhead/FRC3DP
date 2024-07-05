@@ -58,7 +58,7 @@ Your comments, suggestions (both for improvements and for new mechanisms to deve
 
 [IntakePrototype](IntakePrototype/IntakePrototype.md) - a simple 3D-printable prototyping system for testing intake geometries.
 
-[Compendium of Useful Parts](Useful/Useful.md) - a variety of miscellaneous small parts that you may find useful.
+[Compendium of Useful Parts](Useful/Useful.md) - a variety of miscellaneous small parts that you may find useful. Latest addition is an actively cooled VH-109 radio case.
 
 [Miscellaneous Stuff](Misc/Misc.md) - Anything else FRC-related that might be useful. Currently just a SparkMax Breakout Board.
 

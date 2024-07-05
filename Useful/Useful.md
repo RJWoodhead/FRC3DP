@@ -2,6 +2,12 @@
 
 These are some minor parts that you may find useful in your projects. The Fusion360 projects are included so you can modify them as needed, and are usually parametric.
 
+# Latest Additions
+
+[![](Images/IMG_2861.jpg)](Misc)
+
+* [VH-109 Case](Misc). The new VH-109 robot radios can get a little toasty, so this case suspends it from the corners so it's properly exposed for air circulation and has internal ducting that guides the air around all parts of the radio; add a 12v fan for active cooling and it will stabilize at only a few degrees above ambient temperature. The bottom of the case has a 1/2" grid of 10-32 mounting threads. Takes a 40mm fan (M3 bolts) and assembles using 10-32 bolts.
+
 # Parts complicated enough to require some explanation
 
 * The [CheapHook](CheapHook/CheapHook.md) converts a common U-bolt into a hook that attaches to the end of a 1" square tube.
@@ -32,7 +38,7 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 * [Hex Magnet Holder](Misc). A little hex nubbin for mounting a CANCoder magnet to hex shaft. Push the magnet in one end, and screw the other end onto the end of some threaded hex shaft with a cut-off bolt or set-screw. You can adjust the set-screw so that it touches the back of the magnet and holds it at the desired distance from the sensor. Once it's all in place, add a dot of glue to the tip of the magnet to hold it in place. It's sometimes easier than mounting the magnet directly into the hex shaft.
 
-* [Radio Mount](Misc). Yet another mount for the FRC radio, this one lets the radio drop into the mount. Lots of ways to secure it once it's in, but a zip-tie at the top is the easiest. Releases in seconds when you need to get the radio flashed at a competition. All the cables come out the bottom.
+* [Radio Mount](Misc). Yet another mount for the Pre-2025 FRC radio, this one lets the radio drop into the mount. Lots of ways to secure it once it's in, but a zip-tie at the top is the easiest. Releases in seconds when you need to get the radio flashed at a competition. All the cables come out the bottom.
 
 * [Parametric Hinge](Misc). A simple parametric print-in-one-piece parametric hinge. You get to specify length, width, size and # of mounting holes and more.
 
