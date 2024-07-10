@@ -4,9 +4,9 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 # Latest Additions
 
-[![](Images/IMG_2861.jpg)](Misc)
+[![](Images/VH-109-A.jpg)](Misc) [![](Images/VH-109-B.jpg)](Misc)
 
-* [VH-109 Case](Misc). The new VH-109 robot radios can get a little toasty, so this case suspends it from the corners so it's properly exposed for air circulation and has internal ducting that guides the air around all parts of the radio; add a 12v fan for active cooling and it will stabilize at only a few degrees above ambient temperature. The bottom of the case has a 1/2" grid of 10-32 mounting threads. Takes a 40mm fan (M3 bolts) and assembles using 10-32 bolts.
+* [VH-109 Cases](Misc). The new VH-109 robot radios can get a little toasty, so these cases suspend it from the corners so it's properly exposed for air circulation and have internal ducting that guides the air around all parts of the radio. The base variant allows air to circulate around all sides of the radio and stabilizes at a slightly lower temperature; the alternate single-part variant clamps the radio to 2x1 box tubing as recommended by the manufacturer. They require a 40mm fan (M3 bolts) and assemble/mount using 10-32 bolts.
 
 *Note: this is very much a work-in-progress and will be significantly iterated over the next few weeks.*
 
