@@ -4,11 +4,14 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 # Latest Additions
 
+[![](Images/KrakenMount.jpg)](Swerve) 
+
+* [SDS Mk.4 Dual Kraken Mount](Swerve). A single mounting plate that securely fits into a SDS Mk.4 Swerve Drive and holds two Krakens at the proper distance (replacing the machined aluminum standoffs) and also integrates the bottom half of the Cancoder enclosure. Includes numerous utility mounting holes, a slot for zipties, and a clip to secure the cancoder assembly in place (the single screw of the standard Cancoder tends to strip; this uses 3 #6-40 screws). Needs to be printed with support; printing in PLA with a PETG support interface layer (or vice-versa) works very well.
+
 [![](Images/VH-109-A.jpg)](Misc) [![](Images/VH-109-B.jpg)](Misc)
 
 * [VH-109 Cases](Misc). The new VH-109 robot radios can get a little toasty, so these cases suspend it from the corners so it's properly exposed for air circulation and have internal ducting that guides the air around all parts of the radio. The base variant allows air to circulate around all sides of the radio and stabilizes at a slightly lower temperature; the alternate single-part variant clamps the radio to 2x1 box tubing as recommended by the manufacturer. They require a 40mm fan (M3 bolts) and assemble/mount using 10-32 bolts.
 
-*Note: this is very much a work-in-progress and will be significantly iterated over the next few weeks.*
 
 # Parts complicated enough to require some explanation
 

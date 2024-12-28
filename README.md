@@ -60,7 +60,7 @@ Your comments, suggestions (both for improvements and for new mechanisms to deve
 
 [Compendium of Useful Parts](Useful/Useful.md) - a variety of miscellaneous small parts that you may find useful. Latest addition is an actively cooled VH-109 radio case.
 
-[Miscellaneous Stuff](Misc/Misc.md) - Anything else FRC-related that might be useful. Currently just a SparkMax Breakout Board.
+[Miscellaneous Electronics](Misc/Misc.md) - Some boards that might be helpful; currently includes a Sparkmax data port breakout board and a Canbus patch panel.
 
 # File Notes
 
