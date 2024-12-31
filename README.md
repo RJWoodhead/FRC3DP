@@ -54,6 +54,8 @@ Your comments, suggestions (both for improvements and for new mechanisms to deve
 
 [CheapWrist](CheapWrist/CheapWrist.md) - a lighter-weight inline pivoting arm, perhaps suitable for mounting an end-effector.
 
+[![](Misc/Images/CheapBoatHook.jpg)](Misc/Files/CheapBoatHook)
+
 [CheapBoatHook](Misc/Files/CheapBoatHook) - this is a skeleton Fusion project for a simple rollable boat hook climber, inspired by the designs of Teams 233 and 509. I haven't actually built this, I just put it together to understand the geometry a bit better. You may find it useful since the more complex geometries are already modeled. Fully parametric, but it doesn't have more advanced features like a ratchet lock. 
 
 [![](IntakePrototype/Images/IMG_2655.jpg)](IntakePrototype/IntakePrototype.md)
