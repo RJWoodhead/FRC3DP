@@ -5,12 +5,14 @@ Key Design Points:
 * Dirt-cheap; the major cost will be the 2x1 0.0625-wall tubing; you can also use 0.100 tubing if you prefer, but IMHO it's overkill. Parts that are affected by a change in wall size have a -0.100 variant (but I haven't tested them, so caveat constructor).
 * Very flexible; drive motor can be placed inside or outside the mechanism.
 * Simple drive mechanism; active in one direction, passive in the other with optional constant-force springs if gravity isn't your friend.
-* Uses Pull Tape as the drive belt; can be driven on one or both sides.
+* Uses Pull Tape as the drive belt; can be driven on one or both sides. Note: this is not going to be as accurate as using a toothed belt because the tape can stretch.
 * Easy to build with broad tolerances.
 
 ![](Images/IMG_2277.jpg)
 
 As with my other designs, the photos may not have caught up with the current iteration of the design, and since I was using tubing scraps (and updating the design as I went) there are random slots and holes in the tubing that would not appear in a final build.
+
+Finally, this design is one of my earliest experiments in incorporating 3D printing into the construction process and the first elevator I ever built; while there are elements that you may wish to use or can serve as design inspiration, I wouldn't consider it robust enough for a competition robot.
 
 # General Design Notes
 
