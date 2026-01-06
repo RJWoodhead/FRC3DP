@@ -1,16 +1,18 @@
 # FRC3DP - Common First Robotics Mechanisms implemented using extensive 3D Printing
 
-This is an ongoing project I am undertaking to reimplement many of the most common FIRST Robotics mechanisms
+This is an ongoing series of design experiments I am undertaking to reimplement many of the most common FIRST Robotics mechanisms
 with an emphasis on using basic 3D-printed parts wherever possible. The goal is to provide the community with a set
 of customizable designs that are inexpensive and easy to assemble, using parts that can be printed in PLA on an
-inexpensive 3D printer and combined with aluminum tubing and commonly-available parts such as brackets and bearings using hand tools.
+inexpensive 3D printer and combined with aluminum tubing and commonly-available parts such as brackets and bearings using hand tools, as well as serve as starting points for iteration.
 
 Whenever possible, the 3D-printed parts are used to locate other parts and do not conduct significant stress loads; when
 this is unavoidable, a flat plate of polycarbonate or aluminum can be used to replace or reinforce the plastic part (which can be used
 as a template to cut out the plate), or if a higher-end printer is available, the part can be printed out of more resilient materials
 like CF-reinforced nylon (but honestly, this is probably overkill).
 
-Your comments, suggestions (both for improvements and for new mechanisms to develop), and typo-reports are much appreciated. I can be emailed directly at trebor@animeigo.com.
+I also have a [repo dedicated to parts that can be manufactured in a 3-axis CNC mill](https://github.com/RJWoodhead/FRC3AM). Currently most of them are related to elevator construction.
+
+Your comments, suggestions (both for improvements and for new mechanisms to develop), and typo-reports are much appreciated. I can be emailed directly at trebor@madoverlord.com.
 
 # Currently Available Designs
 
@@ -30,9 +32,13 @@ Your comments, suggestions (both for improvements and for new mechanisms to deve
 
 [MultiArm](MultiArm/MultiArm.md) - a work-in-progress conceptual design of a multistage (4/3/2" tube) arm with integrated cascade.
 
+[![](BeltInTube/Images/Team.jpg)](BeltInTube/BeltInTube.md)
+
+[Belt In Tube Elevator](BeltInTube/BeltInTube.md) - a parametric belt-in-tube elevator designed to be as easy to manufacture as possible.
+
 [![](CheapElevator/Images/IMG_2304.jpg)](CheapElevator/CheapElevator.md)
 
-[CheapElevator](CheapElevator/CheapElevator.md) - the classic multistage elevator mechanism. 
+[CheapElevator](CheapElevator/CheapElevator.md) - One of my earliest experiments, not viable for use on a real robot but helped me understand the limitations of 3D printing.
 
 [![](CheapTurret/Images/IMG_2400.jpg)](CheapTurret/CheapTurret.md)
 

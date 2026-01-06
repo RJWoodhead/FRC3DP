@@ -4,6 +4,29 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 # Latest Additions
 
+If there is no link associated with an item, it's in the [Misc](Misc) folder.
+
+* [Parametric HTD5 Idlers (both toothed and untoothed)](/BeltInTube/Files/) can be found in the files for the Belt In Tube elevator.
+
+[![](Images/Mk5nLimelight.jpg)](Misc)
+
+* Parametric LimeLight 4 mount for the new Mk5n swerve modules; lets you adjust the pan and tilt of the camera and supports active cooling.
+
+* Parametric Mk5n-based chassis with 3d-printable bellypan elements.
+
+* Connector covers for the Kraken X44 and X60 motors.
+
+* Battery Terminal Hood (print in TPU)
+
+* Parametric Mk5n tire with tread (print in TPU)
+
+
+
+[![](Images/MiniCutoff.jpg)](Cutoff) 
+[![](Images/MiniCutoff2.jpg)](Cutoff)
+
+* [Harbor Freight Mini Cutoff Saw Base](Cutoff). Adapts the [Harbor Freight Mini Cut-off Saw](https://www.harborfreight.com/09-amp-2-in-mini-cut-off-saw-70478.html) so that it can cut slots in 2x1 and 2x2 tubing at convenient points. Provided as a Fusion Project; has configurations for both sizes (which only change the mounting plate insert). Uses heat-set inserts.
+
 [![](Images/KrakenMount.jpg)](Swerve) 
 
 * [SDS Mk.4 Dual Kraken Mount](Swerve). A single mounting plate that securely fits into a SDS Mk.4 Swerve Drive and holds two Krakens at the proper distance (replacing the machined aluminum standoffs) and also integrates the bottom half of the Cancoder enclosure. Includes numerous utility mounting holes, a slot for zipties, and a clip to secure the cancoder assembly in place (the single screw of the standard Cancoder tends to strip; this uses 3 #6-40 screws). Needs to be printed with support; printing in PLA with a PETG support interface layer (or vice-versa) works very well.
