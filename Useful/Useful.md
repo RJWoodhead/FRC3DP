@@ -4,23 +4,19 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 # Latest Additions
 
-If there is no link associated with an item, it's in the [Misc](Misc) folder.
-
 * [Parametric HTD5 Idlers (both toothed and untoothed)](/BeltInTube/Files/) can be found in the files for the Belt In Tube elevator.
 
 [![](Images/Mk5nLimelight.jpg)](Misc)
 
-* Parametric LimeLight 4 mount for the new Mk5n swerve modules; lets you adjust the pan and tilt of the camera and supports active cooling.
+* [Parametric LimeLight 4 mount](Misc/Mk5n%20Limelight%20Mount.f3z) for the new Mk5n swerve modules; lets you adjust the pan and tilt of the camera and supports active cooling.
 
-* Parametric Mk5n-based chassis with 3d-printable bellypan elements.
+* [Parametric Mk5n-based chassis](Misc/Mk5n%20Chassis%20With%20Bellypans.f3z) with 3d-printable bellypan elements.
 
-* Connector covers for the Kraken X44 and X60 motors.
+* Connector covers for the Kraken [X44](Misc/X44%20Cap.f3z) and [X60](Misc/X60%20Caps.f3z) motors.
 
-* Battery Terminal Hood (print in TPU)
+* [Battery Terminal Hood](Misc/Battery%20Terminal%20Hood.f3d) (print in TPU)
 
-* Parametric Mk5n tire with tread (print in TPU)
-
-
+* [Parametric Mk5n tire](Misc/Mk5n%20Tire.f3d) with tread (print in TPU)
 
 [![](Images/MiniCutoff.jpg)](Cutoff) 
 [![](Images/MiniCutoff2.jpg)](Cutoff)

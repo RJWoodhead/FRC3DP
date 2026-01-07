@@ -68,7 +68,7 @@ Your comments, suggestions (both for improvements and for new mechanisms to deve
 
 [IntakePrototype](IntakePrototype/IntakePrototype.md) - a simple 3D-printable prototyping system for testing intake geometries.
 
-[Compendium of Useful Parts](Useful/Useful.md) - a variety of miscellaneous small parts that you may find useful. Latest addition is an actively cooled VH-109 radio case.
+[Compendium of Useful Parts](Useful/Useful.md) - a variety of miscellaneous small parts that you may find useful. Latest additions center around the Mk5n swerve module and Kraken motors.
 
 [Miscellaneous Electronics](Misc/Misc.md) - Some boards that might be helpful; currently includes a Sparkmax data port breakout board and a Canbus patch panel.
 
