@@ -8,7 +8,7 @@ These are some minor parts that you may find useful in your projects. The Fusion
 
 [![](Images/Mk5nLimelight.jpg)](Misc)
 
-* [Parametric LimeLight 4 mount](Misc/Mk5n%20Limelight%20Mount.f3z) for the new Mk5n swerve modules; lets you adjust the pan and tilt of the camera and supports active cooling.
+* [Parametric LimeLight 4 mount](Misc/Mk5n%20Limelight%20Mount.f3z) for the new Mk5n swerve modules; lets you adjust the pan and tilt of the camera and supports active cooling. You can mirror the print in the slicer to generate the matching mount for the other side of the robot.
 
 * [Parametric Mk5n-based chassis](Misc/Mk5n%20Chassis%20With%20Bellypans.f3z) with 3d-printable bellypan elements.
 
