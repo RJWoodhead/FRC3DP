@@ -14,7 +14,13 @@ I also have a [repo dedicated to parts that can be manufactured in a 3-axis CNC 
 
 Your comments, suggestions (both for improvements and for new mechanisms to develop), and typo-reports are much appreciated. I can be emailed directly at trebor@madoverlord.com.
 
-# Currently Available Designs
+# Latest Additions
+
+[![](BeltInTube/Images/Team.jpg)](BeltInTube/BeltInTube.md)
+
+[Belt In Tube Elevator](BeltInTube/BeltInTube.md) - a parametric belt-in-tube elevator designed to be as easy to manufacture as possible.
+
+# Other Available Designs
 
 [![](CheapLifter/Images/IMG_2175-rotated.jpg)](CheapLifter/CheapLifter.md)
 
@@ -31,10 +37,6 @@ Your comments, suggestions (both for improvements and for new mechanisms to deve
 [![](MultiArm/Images/MultiArm-Chain.jpg)](MultiArm/MultiArm.md)
 
 [MultiArm](MultiArm/MultiArm.md) - a work-in-progress conceptual design of a multistage (4/3/2" tube) arm with integrated cascade.
-
-[![](BeltInTube/Images/Team.jpg)](BeltInTube/BeltInTube.md)
-
-[Belt In Tube Elevator](BeltInTube/BeltInTube.md) - a parametric belt-in-tube elevator designed to be as easy to manufacture as possible.
 
 [![](CheapElevator/Images/IMG_2304.jpg)](CheapElevator/CheapElevator.md)
 

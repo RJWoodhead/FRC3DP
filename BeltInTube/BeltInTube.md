@@ -14,6 +14,10 @@ The rolling structure is made from [SDS Elevator Bearing Blocks](https://www.swe
 
 After the 2026 season, the placeholders were replaced with the actual SDS components for final assembly and testing. Other parts were also refined, so they will not exactly match some of the earlier assembly photos, but unless noted the differences are minor and should not cause any confusion.
 
+# Parametric Size Constraints
+
+The elevator can be resized using Fusion Parameters. The minimum width (outside of Outer rail to outside of Outer rail) is 10", but this will require using a single long belt instead of two belts (one for each side) in order to eliminate the TCBS belt clamps at the bottom of the carriage. Additionally, the idler in the Inner Drive Cassette will have to be replaced with a simple stack of R188-2RS bearings in order to eliminate an interference. Using TCBR belt clamps instead of TCBS ones but retaining the two belts results in a minimum width of 14".
+
 # Belt Idlers
 
 The design uses 15mm HTD-5 Kevlar-reinforced belting (steel-reinforced belt is not flexible enough) running on 15T HTD Idlers. The Idlers (both toothed and untoothed variants) accept common [R188-2RS](https://www.amazon.com/dp/B0CLVDH6CJ) (0.50 OD"/0.25" ID) bearings. These are sized to be identical to 15T metal hex-shaft pulleys, and later we learned that these can also accept the bearings (they just fit into the hex, who knew?!). A Fusion project for this option is also included that has an internal spacer to keep the bearings in the correct position.
@@ -403,7 +407,7 @@ It's a good idea to remove the Tensioner bolts any time the Elevator isn't in us
 
 # Optional Constant Force Springs
 
-Some applications may benefit from adding constant force springs to offset some or all of the weight of the stages and roughly balance the amount of force needed to raise and lower the elevator; since this will increase the maximum deployment speed this is often a win in FRC applications worth the additional complexity.
+Some applications may benefit from adding constant force springs to offset some or all of the weight of the stages and roughly balance the amount of force needed to raise and lower the elevator; since this will increase the maximum deployment speed this can be a win in FRC applications worth the additional complexity, but given the power of current FRC motors, I would recommend using them only if testing determines the cost-benefit tradeoff is worth it.
 
 WARNING: always wear sturdy workgloves when handling constant force springs -- those edges can you give the Mother of All Papercuts.
 
