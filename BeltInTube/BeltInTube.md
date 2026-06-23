@@ -18,6 +18,12 @@ After the 2026 season, the placeholders were replaced with the actual SDS compon
 
 The elevator can be resized using Fusion Parameters. The minimum width (outside of Outer rail to outside of Outer rail) is 10", but this will require using a single long belt instead of two belts (one for each side) in order to eliminate the TCBS belt clamps at the bottom of the carriage. Additionally, the idler in the Inner Drive Cassette will have to be replaced with a simple stack of R188-2RS bearings in order to eliminate an interference. Using TCBR belt clamps instead of TCBS ones but retaining the two belts results in a minimum width of 14".
 
+The minimum carriage height is 6.5". This could be squeezed down to 5.5" by using the compact variant of the Carriage Rail Belt Tensioner (more details below).
+
+# Design Variants
+
+If you have access to more advanced tools like a CNC router, you may wish to explore variants to the design. For example, many teams like to use a custom "[" bracket as the Top Rail that connects the side rails of a stage.  The [SDS Elevator Bearing Blocks](https://www.swervedrivespecialties.com/products/billet-elevator-bearing-block) page has some example configurations that show how these might be assembled.
+
 # Belt Idlers
 
 The design uses 15mm HTD-5 Kevlar-reinforced belting (steel-reinforced belt is not flexible enough) running on 15T HTD Idlers. The Idlers (both toothed and untoothed variants) accept common [R188-2RS](https://www.amazon.com/dp/B0CLVDH6CJ) (0.50 OD"/0.25" ID) bearings. These are sized to be identical to 15T metal hex-shaft pulleys, and later we learned that these can also accept the bearings (they just fit into the hex, who knew?!). A Fusion project for this option is also included that has an internal spacer to keep the bearings in the correct position.
@@ -50,7 +56,7 @@ Many parts of the design use small printed Nut Capture Inserts. Locknuts can be 
 
 As with other inserts, these are typically pinned in place with a couple of cap screws to hold them in position during assembly. Theoretically many of these could be removed after assembly is complete as other structural components will hold them in place.
 
-Aside: in this build we defaulted to socket head cap screws because they are higher profile than buttonheads and so would highlight any intereference issues. However, buttonheads are fine if you prefer them and would probably be our choice for a competition build.
+Aside: in this build we defaulted to socket head cap screws because they are higher profile than buttonheads and so would highlight any interference issues. However, buttonheads are fine if you prefer them and would probably be our choice for a competition build.
 
 ![](Images/IMG_3138.jpeg)
 
@@ -62,6 +68,8 @@ In this case, they are mounted 1.5" and 2.5" in from the ends of the tube. Then 
 
 Depending on your design you may find it useful to include extra Nut Capture Inserts here and there to provide extra mounting points, but once again, keep in mind these are for keeping the nuts in place and can only be hand-tightened.
 
+If you go with a single belt (for example, you need a very skinny elevator), then the Horizontal Tube Belt Guides should be inserted so that the captured nuts are on the outside, with a Nut Capture Insert between them. Then the toothed plate of a TBCS Rail Belt Clamp can be used to secure the center of the belt.
+
 The two side tubes have a larger slots cut into them; the top of the slot is at least 2" below the end of the tube but it can be adjusted vertically if needed. They also have 1/4" holes drilled in the side of the tube on both sides, one pair per slot. Use the Axle Template to drill these holes -- you will need to print a second, mirrored version of this Template.
 
 Note: in our original design, there were two of these slots. In a subsequent iteration, we relocated the optional constant force springs that balance the carriage, thus removing the need for one of the slots. In some of the later photos from Summer 2026, deleted features like this have been covered by tape.
@@ -70,9 +78,11 @@ The slot is for a Carriage Rail Belt Tensioner. It has a small Insert that guide
 
 ![](Images/IMG_3884.jpeg)
 
-A Tube Plug is slid down the tube to a position just above the Belt Tensioner to provide threaded holes for mounting a belt clamp. This is one of the few places where a Nut Capture Insert is not a good idea, since the bolts that are used with the belt clamp are under shear stress due to the belt tension. 
+A Tube Plug is slid down the tube to a position just above the Belt Tensioner to provide threaded holes for mounting a belt clamp. This is one of the few places where a Nut Capture Insert is not ideal, since the bolts that are used with the belt clamp are under shear stress due to the belt tension. 
 
 ![](Images/IMG_3885.jpeg)
+
+Note: included is a more compact variant of the Belt Tensioner that eliminates the need for the extra Tube Plug, replacing it with captured nuts. This cuts an inch off the minimum height of the carriage, and moves the cutout in the tube up one inch. Because of the issue noted above, I'd only use it if absolutely necessary.
 
 The tubes are then connected using the Tube Plugs and 10-32 bolts. Don't forget the threadlock!
 
@@ -82,7 +92,7 @@ Check that the carriage is properly square by measuring between diagonal corners
 
 ![](Images/IMG_3683.jpeg)
 
-The carriage is now completely assembled. 
+The carriage is now completely assembled.
 
 ![](Images/IMG_3148.jpeg)
 
