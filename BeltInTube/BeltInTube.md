@@ -16,13 +16,17 @@ After the 2026 season, the placeholders were replaced with the actual SDS compon
 
 # Parametric Size Constraints
 
-The elevator can be resized using Fusion Parameters. The minimum width (outside of Outer rail to outside of Outer rail) is 10", but this will require using a single long belt instead of two belts (one for each side) in order to eliminate the TCBS belt clamps at the bottom of the carriage. Additionally, the idler in the Inner Drive Cassette will have to be replaced with a simple stack of R188-2RS bearings in order to eliminate an interference. Using TCBR belt clamps instead of TCBS ones but retaining the two belts results in a minimum width of 14".
+The elevator can be resized using Fusion Parameters. The minimum width (outside of Outer rail to outside of Outer rail) is 11" (or even 10" by using the Horizontal Tube Belt Guides to also replace Tube Inserts), but this will require using a single long belt instead of two belts (one for each side) in order to eliminate the TCBS belt clamps at the bottom of the carriage. Additionally, the idler in the Inner Drive Cassette will have to be replaced with a simple stack of R188-2RS bearings in order to eliminate an interference. Using TCBR belt clamps instead of TCBS ones but retaining the two belts results in a minimum width of 14".
 
-The minimum carriage height is 6.5". This could be squeezed down to 5.5" by using the compact variant of the Carriage Rail Belt Tensioner (more details below).
+The minimum carriage height is 6.5". This can be squeezed down to 5.5" by using the compact variant of the Carriage Rail Belt Tensioner (more details below).
 
 # Design Variants
 
 If you have access to more advanced tools like a CNC router, you may wish to explore variants to the design. For example, many teams like to use a custom "[" bracket as the Top Rail that connects the side rails of a stage.  The [SDS Elevator Bearing Blocks](https://www.swervedrivespecialties.com/products/billet-elevator-bearing-block) page has some example configurations that show how these might be assembled.
+
+The included Slim Internal 2-Stage Elevator Center Drive file illustrates how the elevator can be used to create a sturdy extending arm device and incorporates some design alternatives.
+
+![](Images/SlimVariant.jpg)
 
 # Belt Idlers
 
