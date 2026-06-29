@@ -20,6 +20,10 @@ Your comments, suggestions (both for improvements and for new mechanisms to deve
 
 [Belt In Tube Elevator](BeltInTube/BeltInTube.md) - a parametric belt-in-tube elevator designed to be as easy to manufacture as possible.
 
+[![](Sprockulator/Images/Sprockulator.jpg)](Sprockulator/Sprockulator.md)
+
+The [Sprockulator](Sprockulator/Sprockulator.md) is a very minimalist linear actuator that might be just the thing to power your next intake.
+
 # Other Available Designs
 
 [![](CheapLifter/Images/IMG_2175-rotated.jpg)](CheapLifter/CheapLifter.md)
